@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Mallikarjun Reddy
 
-<!--
-**Mallikarjunreddy2002/Mallikarjunreddy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Motivated 2024 Engineering graduate with strong interest in backend development. Passionate about building real-world web applications using Python and Django.
 
-Here are some ideas to get you started:
+- 🎓 Electrical & Electronics Engineering Graduate (2024)
+- 💻 Python Full Stack Developer
+- 🌱 Currently learning Advanced Python & Data Structures & Algorithms
+- 📊 Interested in Data Analysis
+- 📍 Bengaluru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Skilled in Python, Django, SQL
+- HTML, CSS, JavaScript & Bootstrap
+- Currently improving DSA and system design
+- Git & GitHub
+- Open to internships and entry-level opportunities
+
+## 📌 Projects
+- E-commerce Website (Html,css & JS)
+- Employee Leave Management System (Django)
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/mallikarjun-ln)
+- Email: (mnarasaraddi232002@gmail.com)
+
+
+
