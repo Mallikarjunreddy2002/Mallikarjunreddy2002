@@ -18,7 +18,7 @@ Motivated 2024 Engineering graduate with strong interest in backend development.
 
 ## 📌 Projects
 - E-commerce Website (Html,css & JS)
-- Employee Leave Management System (Django)
+- Employee Leave Management System (Django & Python)
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/mallikarjun-ln)
