@@ -40,14 +40,16 @@ Motivated 2024 Engineering graduate with strong interest in backend development.
 
 - 👨‍💻 All of my projects are available at [https://mallikarjun-portfolio-iota.vercel.app/](https://mallikarjun-portfolio-iota.vercel.app/)
 
+- 💬 Ask me about **Motivated 2024 Engineering graduate with strong interest in backend development. Passionate about building real-world web applications using Python and Django.**
+
 - 📫 How to reach me **mnarasaraddi232002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tldoq630FN-0NutyLZaLGwRaLl3UkJvX/view?usp=sharing](https://drive.google.com/file/d/1tldoq630FN-0NutyLZaLGwRaLl3UkJvX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mallikarjun-ln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mallikarjun-ln/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mallikarjun_l_n23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mallikarjun_l_n23/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mallikarjun-ln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallikarjun-ln/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mallikarjun_l_n23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mallikarjun_l_n23/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/560010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560010" height="30" width="40" /></a>
 </p>
 
