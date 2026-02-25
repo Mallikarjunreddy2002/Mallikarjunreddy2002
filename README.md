@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mallikarjun Reddy
+# Hi 👋 I'm Mallikarjun LN
 
 ## 🚀 About Me
 Motivated 2024 Engineering graduate with strong interest in backend development. Passionate about building real-world web applications using Python and Django.
