@@ -1,19 +1,19 @@
 # Hi 👋 I'm Mallikarjun LN
 
 ## 🚀 About Me
-Motivated 2024 Engineering graduate with strong interest in backend development. Passionate about building real-world web applications using Python and Django.
+Backend-focused Python developer with hands-on experience building role-based web applications using Django and REST APIs. Passionate about scalable backend systems and clean code practices.
 
 - 🎓 Electrical & Electronics Engineering Graduate (2024)
 - 💻 Python Full Stack Developer
-- 🌱 Currently learning Advanced Python & Data Structures & Algorithms
-- 📊 Interested in Data Analysis
+- 🌱 Practicing Data Structures & Algorithms and backend development
+- 📊 Backend Developer / Python Developer
 - 📍 Bengaluru, India
 
 ## 🛠 Skills
-- Skilled in Python, Django, SQL
-- HTML, CSS, JavaScript & Bootstrap
-- Currently improving DSA and system design
-- Git & GitHub
+- Backend Development: Python, Django, Django REST Framework
+- Database: SQL, MySQL, SQLite 
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Version Control: Git & GitHub
 - Open to internships and entry-level opportunities
 
 ## 📌 Projects
